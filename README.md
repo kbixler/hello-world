@@ -1,2 +1,2 @@
 # hello-world
-This is the Hello World GitHub tutorial
+Look at me! I'm doing the Hello World GitHub tutorial.
